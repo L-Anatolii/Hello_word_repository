@@ -41,4 +41,5 @@ public class AutomobileController {
         autoRepository.save(Auto);
         return Auto.getId();
     }
+//    для второго коммита
 }
